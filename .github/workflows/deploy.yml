@@ -20,3 +20,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: "./"  # Adjust if needed
           server-dir: "/public_html/cms/"  # Adjust based on your subdomain path
+
